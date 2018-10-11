@@ -26,3 +26,7 @@ Generating fractal images based on Newton-Raphson iteration and approximating k-
 >Finally, we acquire an iterative expression that is known as Newton-Raphson iteration:
 
 ![eq6](https://latex.codecogs.com/gif.latex?x_%7Bn&plus;1%7D%3Dx_n%20-%20%5Cfrac%7Bf%28x_n%29%7D%7Bf%27%28x_n%29%7D)
+
+
+### How it works?
+![Newton fractal generation](https://github.com/damjanvucina/newton-fractals/blob/master/newton.gif)
