@@ -1,6 +1,6 @@
 # Newton-Raphson iteration fractals
 
-Generating fractal images based on Newton-Raphson iteration and approximating k-th order Taylor-polynomial.
+Generating fractal images based on Newton-Raphson iteration by approximating k-th order Taylor-polynomial.
 
 
 > k-times differentiable functions can be approximated by k-th order Taylor-polynomial:
@@ -28,5 +28,14 @@ Generating fractal images based on Newton-Raphson iteration and approximating k-
 ![eq6](https://latex.codecogs.com/gif.latex?x_%7Bn&plus;1%7D%3Dx_n%20-%20%5Cfrac%7Bf%28x_n%29%7D%7Bf%27%28x_n%29%7D)
 
 
-### How it works?
+#### How it works?
 ![Newton fractal generation](https://github.com/damjanvucina/newton-fractals/blob/master/newton.gif)
+
+
+
+# Ray casting algorithm
+Rendering 3D scenes using Ray casting algorithm. Parallelizing calculations by using ForkJoin and RecursiveAction.
+
+![Rendered scene](https://github.com/damjanvucina/newton-fractals/blob/master/raycaster.png)
+
+
